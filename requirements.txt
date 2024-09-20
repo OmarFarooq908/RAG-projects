@@ -1,0 +1,9 @@
+langchain
+pinecone-client
+openai
+fastapi
+uvicorn
+llama-index
+pydantic
+python-dotenv
+requests
