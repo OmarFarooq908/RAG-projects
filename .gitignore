@@ -1,1 +1,2 @@
-global-project
+global-project/
+.env
